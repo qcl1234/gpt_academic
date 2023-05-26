@@ -1,5 +1,5 @@
-gradio==3.28.3
-tiktoken>=0.3.3
+gradio
+tiktoken
 requests[socks]
 transformers
 python-markdown-math
@@ -15,3 +15,11 @@ openai
 numpy
 arxiv
 pymupdf
+BingImageCreator
+certifi
+httpx
+prompt_toolkit
+requests
+rich
+websockets
+httpx[socks]
